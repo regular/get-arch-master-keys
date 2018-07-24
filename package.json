@@ -1,7 +1,7 @@
 {
   "name": "get-arch-master-keys",
   "version": "1.0.0",
-  "description": "scrape and display archlinux master sigining keys from https://archlinux.org",
+  "description": "scrape and display archlinux master signing keys from https://archlinux.org",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
